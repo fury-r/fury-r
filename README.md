@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fury-r
+- 👋 Hi, I’m @fury-r also known as Rajeev Dessai.
 - 👀 I’m interested in Full Stack  Development,Sever Side programming,Database Adminstration and Data Science.
 - 🌱 I’m currently doing MSc IT.
 - 💞️ I’m looking to collaborate on  Projects so that it'll help me to gain more knowledge and experience.
