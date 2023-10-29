@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fury-r.
--  I’m interested in Full Stack  Development,Sever Side programming,Database Adminstration ,AI/ML and Data Science.
--  I’m looking to collaborate on  Projects so that it'll help me to gain more knowledge and experience.
+-  I’m interested in Full Stack  Development, Sever Side programming, AI/ML and Data Science.
+-  I am looking to collaborate on  Projects so that it'll help me to gain more knowledge and experience.
   Contact me: rajeev.dessai11@gmail.com
 <img src="https://myreadme.vercel.app/api/embed/fury-r?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <!---
